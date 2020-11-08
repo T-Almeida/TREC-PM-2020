@@ -1,0 +1,4 @@
+tlib>=3.3.0
+tensorflow=2.0.0
+nltk>=3.5
+gensim>=3.8.3
