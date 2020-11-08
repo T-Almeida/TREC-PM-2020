@@ -1,0 +1,202 @@
+<topics task="2020 TREC Precision Medicine">
+  <topic number="1">
+    <disease>colorectal cancer</disease>
+    <gene>ABL1</gene>
+    <treatment>Regorafenib</treatment>
+  </topic>
+  <topic number="2">
+    <disease>non-small cell carcinoma</disease>
+    <gene>ALK</gene>
+    <treatment>Alectinib</treatment>
+  </topic>
+  <topic number="3">
+    <disease>acute myeloid leukemia</disease>
+    <gene>ALK</gene>
+    <treatment>Gilteritinib</treatment>
+  </topic>
+  <topic number="4">
+    <disease>melanoma</disease>
+    <gene>BRAF</gene>
+    <treatment>Binimetinib</treatment>
+  </topic>
+  <topic number="5">
+    <disease>hepatocellular carcinoma</disease>
+    <gene>BRAF</gene>
+    <treatment>Sorafenib</treatment>
+  </topic>
+  <topic number="6">
+    <disease>ovarian carcinoma</disease>
+    <gene>BRCA1</gene>
+    <treatment>Carboplatin</treatment>
+  </topic>
+  <topic number="7">
+    <disease>ovarian cancer</disease>
+    <gene>BRCA1</gene>
+    <treatment>Olaparib</treatment>
+  </topic>
+  <topic number="8">
+    <disease>ovarian cancer</disease>
+    <gene>BRCA1</gene>
+    <treatment>Rucaparib</treatment>
+  </topic>
+  <topic number="9">
+    <disease>ovarian carcinoma</disease>
+    <gene>BRCA2</gene>
+    <treatment>Carboplatin</treatment>
+  </topic>
+  <topic number="10">
+    <disease>ovarian cancer</disease>
+    <gene>BRCA2</gene>
+    <treatment>Olaparib</treatment>
+  </topic>
+  <topic number="11">
+    <disease>breast cancer</disease>
+    <gene>CDK4</gene>
+    <treatment>Abemaciclib</treatment>
+  </topic>
+  <topic number="12">
+    <disease>breast cancer</disease>
+    <gene>CDK6</gene>
+    <treatment>Abemaciclib</treatment>
+  </topic>
+  <topic number="13">
+    <disease>breast cancer</disease>
+    <gene>CDKN2A</gene>
+    <treatment>Abemaciclib</treatment>
+  </topic>
+  <topic number="14">
+    <disease>breast cancer</disease>
+    <gene>CDKN2A</gene>
+    <treatment>Ribociclib</treatment>
+  </topic>
+  <topic number="15">
+    <disease>non-small cell lung cancer</disease>
+    <gene>EGFR</gene>
+    <treatment>Afatinib</treatment>
+  </topic>
+  <topic number="16">
+    <disease>non-small cell lung cancer</disease>
+    <gene>EGFR</gene>
+    <treatment>Osimertinib</treatment>
+  </topic>
+  <topic number="17">
+    <disease>non-small cell lung cancer</disease>
+    <gene>ERBB2</gene>
+    <treatment>Afatinib</treatment>
+  </topic>
+  <topic number="18">
+    <disease>renal cell carcinoma</disease>
+    <gene>ERBB2</gene>
+    <treatment>Temsirolimus</treatment>
+  </topic>
+  <topic number="19">
+    <disease>urothelial carcinoma</disease>
+    <gene>FGFR1</gene>
+    <treatment>Erdafitinib</treatment>
+  </topic>
+  <topic number="20">
+    <disease>hepatocellular carcinoma</disease>
+    <gene>FGFR1</gene>
+    <treatment>Sorafenib</treatment>
+  </topic>
+  <topic number="21">
+    <disease>differentiated thyroid carcinoma</disease>
+    <gene>FGFR2</gene>
+    <treatment>Lenvatinib</treatment>
+  </topic>
+  <topic number="22">
+    <disease>mantle cell lymphoma</disease>
+    <gene>FLT3</gene>
+    <treatment>Ibrutinib</treatment>
+  </topic>
+  <topic number="23">
+    <disease>medullary thyroid cancer</disease>
+    <gene>FLT3</gene>
+    <treatment>Vandetanib</treatment>
+  </topic>
+  <topic number="24">
+    <disease>acute myeloid leukemia</disease>
+    <gene>IDH1</gene>
+    <treatment>Ivosidenib</treatment>
+  </topic>
+  <topic number="25">
+    <disease>colorectal cancer</disease>
+    <gene>KDR</gene>
+    <treatment>Ziv-Aflibercept</treatment>
+  </topic>
+  <topic number="26">
+    <disease>renal cell carcinoma</disease>
+    <gene>KIT</gene>
+    <treatment>Pazopanib</treatment>
+  </topic>
+  <topic number="27">
+    <disease>renal cell carcinoma</disease>
+    <gene>KIT</gene>
+    <treatment>Sorafenib</treatment>
+  </topic>
+  <topic number="28">
+    <disease>melanoma</disease>
+    <gene>KRAS</gene>
+    <treatment>Trametinib</treatment>
+  </topic>
+  <topic number="29">
+    <disease>non-small cell lung cancer</disease>
+    <gene>MET</gene>
+    <treatment>Crizotinib</treatment>
+  </topic>
+  <topic number="30">
+    <disease>colorectal cancer</disease>
+    <gene>NTRK1</gene>
+    <treatment>Regorafenib</treatment>
+  </topic>
+  <topic number="31">
+    <disease>hepatocellular carcinoma</disease>
+    <gene>NTRK2</gene>
+    <treatment>Sorafenib</treatment>
+  </topic>
+  <topic number="32">
+    <disease>soft tissue sarcoma</disease>
+    <gene>PDGFRA</gene>
+    <treatment>Olaratumab</treatment>
+  </topic>
+  <topic number="33">
+    <disease>renal cell carcinoma</disease>
+    <gene>PIK3CA</gene>
+    <treatment>Temsirolimus</treatment>
+  </topic>
+  <topic number="34">
+    <disease>follicular lymphoma</disease>
+    <gene>PIK3R1</gene>
+    <treatment>Copanlisib</treatment>
+  </topic>
+  <topic number="35">
+    <disease>basal cell carcinoma</disease>
+    <gene>PTCH1</gene>
+    <treatment>Vismodegib</treatment>
+  </topic>
+  <topic number="36">
+    <disease>chronic lymphocytic leukemia</disease>
+    <gene>PTEN</gene>
+    <treatment>Duvelisib</treatment>
+  </topic>
+  <topic number="37">
+    <disease>melanoma</disease>
+    <gene>PTPN11</gene>
+    <treatment>Binimetinib</treatment>
+  </topic>
+  <topic number="38">
+    <disease>mantle cell lymphoma</disease>
+    <gene>RET</gene>
+    <treatment>Ibrutinib</treatment>
+  </topic>
+  <topic number="39">
+    <disease>non-small cell lung cancer</disease>
+    <gene>ROS1</gene>
+    <treatment>Entrectinib</treatment>
+  </topic>
+  <topic number="40">
+    <disease>acute myeloid leukemia</disease>
+    <gene>SMO</gene>
+    <treatment>Glasdegib</treatment>
+  </topic>
+</topics>
